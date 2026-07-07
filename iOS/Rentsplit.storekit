@@ -1,0 +1,42 @@
+{
+  "identifier": "rentsplit",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Rentsplit Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "rentsplit_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks the auto-split calculator and per-roommate balance history.",
+              "displayName": "Rentsplit Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "rentsplit_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Rentsplit Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
